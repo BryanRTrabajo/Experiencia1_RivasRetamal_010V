@@ -1,0 +1,16 @@
+
+.clase{
+    text-align: right;
+}
+
+#caja{
+  width: 300px;
+  border: 15px solid rgb(161, 211, 161);
+  padding: 20px;
+  margin: 20px;
+}
+
+.carousel1-caption {
+  top: 0;
+  bottom: auto;
+}
